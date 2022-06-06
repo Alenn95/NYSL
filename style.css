@@ -1,0 +1,94 @@
+
+index.body{
+    /* font-family: 'Comfortaa', cursive;  */
+    background-image: url("/Img/closeup-shot-of-painted-white-lines-on-green-soccer-field-in-germany.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.home{
+    background-image: url("/Img/XEGF2YM7FVA4BKWCVTCURTASYU.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.logoNysl{
+width: 3vw;
+/* height:  */
+}
+
+h1{
+font-size: 3rem;
+color:white ;
+}
+
+.linea{
+    border-left: 2.5px solid white;
+    border-radius: 1.5px;
+    height: 40vh;
+    resize: both;
+    overflow: auto;
+    
+};
+
+
+
+.banners{
+    background-color: black;
+    
+}
+.circulo {
+    width: .5rem;
+    height: .5rem;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: white;
+}
+
+p{
+    color: white;
+}
+
+h2{
+    color: black;
+}
+
+.title{
+    color: black;
+}
+    
+
+.blur{
+    backdrop-filter: blur(1px);
+}
+
+.dot {
+  height: 4vw;
+  width: 4vh;
+  background-color:white;
+  border-radius: 50%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.expandir{
+    text-decoration: none;
+    color: white;
+}
+
+.contactForm .form-control {
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 0; 
+}
+
+#contactForm .form-control {
+        font-size: 16px; 
+}
+
+
